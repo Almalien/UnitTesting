@@ -1,0 +1,9 @@
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UTesting\obj\Debug\netcoreapp2.0\UTesting.csprojResolveAssemblyReference.cache
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UTesting\obj\Debug\netcoreapp2.0\UTesting.csproj.CoreCompileInputs.cache
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UTesting\obj\Debug\netcoreapp2.0\UTesting.AssemblyInfoInputs.cache
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UTesting\obj\Debug\netcoreapp2.0\UTesting.AssemblyInfo.cs
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UTesting\bin\Debug\netcoreapp2.0\UTesting.deps.json
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UTesting\bin\Debug\netcoreapp2.0\UTesting.dll
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UTesting\bin\Debug\netcoreapp2.0\UTesting.pdb
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UTesting\obj\Debug\netcoreapp2.0\UTesting.dll
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UTesting\obj\Debug\netcoreapp2.0\UTesting.pdb

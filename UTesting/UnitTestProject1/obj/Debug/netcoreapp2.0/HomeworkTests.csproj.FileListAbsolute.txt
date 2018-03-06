@@ -1,0 +1,16 @@
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UnitTestProject1\bin\Debug\netcoreapp2.0\HomeworkTests.deps.json
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UnitTestProject1\bin\Debug\netcoreapp2.0\HomeworkTests.runtimeconfig.json
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UnitTestProject1\bin\Debug\netcoreapp2.0\HomeworkTests.runtimeconfig.dev.json
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UnitTestProject1\bin\Debug\netcoreapp2.0\HomeworkTests.dll
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UnitTestProject1\bin\Debug\netcoreapp2.0\HomeworkTests.pdb
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UnitTestProject1\bin\Debug\netcoreapp2.0\UTesting.dll
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UnitTestProject1\bin\Debug\netcoreapp2.0\UTesting.pdb
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UnitTestProject1\obj\Debug\netcoreapp2.0\HomeworkTests.csprojResolveAssemblyReference.cache
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UnitTestProject1\obj\Debug\netcoreapp2.0\HomeworkTests.csproj.CoreCompileInputs.cache
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UnitTestProject1\obj\Debug\netcoreapp2.0\HomeworkTests.AssemblyInfoInputs.cache
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UnitTestProject1\obj\Debug\netcoreapp2.0\HomeworkTests.AssemblyInfo.cs
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UnitTestProject1\obj\Debug\netcoreapp2.0\HomeworkTests.dll
+C:\Users\artafolla\Documents\UnitTesting\UTesting\UTesting\UnitTestProject1\obj\Debug\netcoreapp2.0\HomeworkTests.pdb
